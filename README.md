@@ -68,7 +68,7 @@ Task-Management-Dashboard/
     ├── css/
     │   └── style.css
     ├── js/
-    │   └── app.js
+    │   │── app.js
     └── index.html
 
 🚀 Getting Started
